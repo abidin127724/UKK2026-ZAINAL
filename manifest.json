@@ -1,0 +1,15 @@
+{
+  "name": "Pengaduan SMKN 12",
+  "short_name": "Lapor12",
+  "start_url": "input_pengaduan.php",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1995/1995471.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

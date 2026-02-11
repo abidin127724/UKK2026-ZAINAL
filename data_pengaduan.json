@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "nomor_pengaduan": "PNP0001",
+        "nama": "abidin",
+        "jabatan": "123",
+        "departemen": "123",
+        "barang": "gunting",
+        "deskripsi": "rusak",
+        "tanggal": "2026-01-13 14:20:25",
+        "status": "Pending",
+        "tanggapan_admin": "sudah saya perbaiki"
+    },
+    {
+        "id": 2,
+        "nomor_pengaduan": "PNP0002",
+        "nama": "abidin",
+        "jabatan": "12",
+        "departemen": "11",
+        "barang": "gunting",
+        "deskripsi": "rusajkkkkkk",
+        "tanggal": "2026-01-14 03:40:57",
+        "status": "Pending"
+    },
+    {
+        "id": 3,
+        "nomor_pengaduan": "PNP0003",
+        "nama": "abidin",
+        "jabatan": "12",
+        "departemen": "kelistrikan",
+        "barang": "ac",
+        "deskripsi": "ac rusak",
+        "tanggal": "2026-01-19 03:18:43",
+        "status": "Pending"
+    }
+]
